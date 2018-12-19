@@ -35,7 +35,6 @@ else: print("... {} is not in the dictionary".format(key2find))
 print("\n## Dictionary Length ##")
 print("The dictionary has {} keys".format(len(thisdict)))
 
-
 ##Adding Items
 print("\nAdding the 'color' key")
 thisdict["color"]="red"
