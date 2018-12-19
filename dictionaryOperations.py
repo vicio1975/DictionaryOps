@@ -81,4 +81,4 @@ for i in thisdict3.items():
     print(i)
 
 
-
+input("Press a key to close the terminal!")
